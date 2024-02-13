@@ -1,1 +1,1 @@
-# Relativemotion Financial Modeling Application
+# Relative Motion Financial Modeling Application
