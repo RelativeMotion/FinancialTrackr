@@ -1,1 +1,1 @@
-# relativemotion-app
+# Relativemotion Financial Modeling Application
