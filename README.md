@@ -1,2 +1,4 @@
-# FinancialTrackr - Financial Research & Analysis Platform
+# Financial Research & Analysis Platform
+
+https://financialtrackr.app
 
